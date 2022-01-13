@@ -7,14 +7,14 @@ public class MovieDTO {
 	private Long id;
 	private String title;
 	private Integer count;
-	private Integer score;
+	private Double score;
 	private String image;
 	
 	public MovieDTO() {
 		
 	}
 
-	public MovieDTO(Long id, String title, Integer count, Integer score, String image) {
+	public MovieDTO(Long id, String title, Integer count, Double score, String image) {
 
 		this.id = id;
 		this.title = title;
@@ -56,11 +56,11 @@ public class MovieDTO {
 		this.count = count;
 	}
 
-	public Integer getScore() {
+	public Double getScore() {
 		return score;
 	}
 
-	public void setScore(Integer score) {
+	public void setScore(Double score) {
 		this.score = score;
 	}
 
