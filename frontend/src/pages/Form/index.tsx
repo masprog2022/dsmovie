@@ -6,8 +6,6 @@ import FormCard from '../../components/FormCard';
 function Form() {
 
   const params = useParams();
-
-  
   return (
 
     <FormCard movieId={`${params.movieId}`} />
