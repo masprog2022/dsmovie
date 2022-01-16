@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Postman](https://www.postman.com/downloads/)
 - [Heroku](https://dashboard.heroku.com/apps)
 - [Postgre SQL](https://www.postgresql.org)
-- [Java 16](https://www.java.com/pt-BR/)
+- [Java 11](https://www.java.com/pt-BR/)
 - [Netlify](https://www.netlify.com)
 
 <br>
