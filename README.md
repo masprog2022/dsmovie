@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> DM Movie </h1>
+  <h1> DS Movie </h1>
   <p align="center">
   <br>
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -42,7 +42,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 <p align="center">
-O DM Movie é uma aplicação para avaliar filmes que lá estão catalogados, você informa seu email e informa a sua acaliação sobre o filme, logo após isso sua avaliação é armazenada em um banco de dados e é adicionada visualmente.
+O DS Movie é uma aplicação para avaliar filmes que lá estão catalogados, você informa seu email e informa a sua acaliação sobre o filme, logo após isso sua avaliação é armazenada em um banco de dados e é adicionada visualmente.
 </p>
 <br>
 
@@ -54,7 +54,7 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 
 ## 🚀 Deploy 
 
-Você pode testar e usar o DM Movie através [desse link](https://dm-movie.netlify.app).
+Você pode testar e usar o DS Movie através [desse link](https://dm-movie.netlify.app).
 
 <br>
 
@@ -62,7 +62,7 @@ Você pode testar e usar o DM Movie através [desse link](https://dm-movie.netli
 
 <div align="center">
 <h3>
-👨‍💻Feito por Davi Mateus na Semana Dev Superior 6.0👨‍💻
+👨‍💻Feito por Mauro Manuel na Semana Dev Superior 6.0👨‍💻
 </h3>
 </div>
 
