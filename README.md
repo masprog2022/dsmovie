@@ -54,7 +54,7 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 
 ## 🚀 Deploy 
 
-Você pode testar e usar o DS Movie através [desse link](https://dm-movie.netlify.app).
+Você pode testar e usar o DS Movie através [desse link](https://maurodev-dsmovie.netlify.app/).
 
 <br>
 
