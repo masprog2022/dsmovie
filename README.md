@@ -13,7 +13,7 @@
 
 <h2>🖥️ Tela principal: </h2>
 <p align="center">
-  <img alt="Happy" src="https://user-images.githubusercontent.com/66326378/149644378-42824155-5aae-4ab3-b9ff-131f0d50171b.png" width="100%">
+  <img alt="Happy" src="https://user-images.githubusercontent.com/89852935/149669969-9102b9b0-a21c-454a-b3ac-5e2667a01eb9.png" width="100%">
 </p>
 <h2>🖥️ Tela de formulário: </h2>
 <p align="center">
