@@ -17,7 +17,7 @@
 </p>
 <h2>🖥️ Tela de formulário: </h2>
 <p align="center">
-  <img alt="Happy" src="https://user-images.githubusercontent.com/66326378/149644379-64125c3f-1d41-4559-9dc6-1b6777ccfa3f.png" width="100%">
+  <img alt="Happy" src="https://user-images.githubusercontent.com/89852935/149670248-ae9e4e84-5473-4ac6-9416-c2f93246e8a0.png" width="100%">
 </p>
 
 ## ✨ Tecnologias
